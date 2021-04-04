@@ -66,6 +66,4 @@ highlight_name: false
 
 I am a current graduate student in the department of Psychological & Brain Sciences at Washington University. My research interests center around multi-method approaches (e.g., experience sampling, neuroimaging) to study cognitive and motivational changes across the adult life span in healthy adults. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
