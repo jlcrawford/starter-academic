@@ -7,11 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
+  - name: Research Interests
     url: '#projects'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
