@@ -4,9 +4,9 @@ title: "Incorporating Ecological Momentary Assessment into multi-level
 publication_types:
   - "3"
 authors:
-  - Crawford, Jennifer L.
-  - English, Tammy
-  - Braver, Todd S.
+  - Jennifer L Crawford
+  - Tammy English
+  - Todd S Braver
 doi: https://doi.org/10.31234/osf.io/pc8tj
 draft: false
 featured: false
