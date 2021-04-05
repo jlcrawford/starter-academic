@@ -35,6 +35,8 @@ highlight_name: false
 title: Jennifer L. Crawford
 email: ""
 ---
-I am a current graduate student in the department of Psychological & Brain Sciences at Washington University. My research interests center around using multi-method approaches (e.g., experience sampling, neuroimaging) to study cognitive and motivational changes across the adult life span in healthy adults. 
+I am a graduate student in the department of Psychological & Brain Sciences at Washington University. My research interests center around using multi-method approaches (e.g., experience sampling, neuroimaging) to study cognitive and motivational changes across the adult life span. 
+
+In addition to my research interests, I am invested in helping to demystify the hidden curriculum of academia and promote a positive culture in which people of all backgrounds are respected and represented in science. Outside of work, I enjoy running, baking and cooking, and spending time with friends and family.
 
 
