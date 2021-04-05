@@ -34,6 +34,9 @@ superuser: true
 highlight_name: false
 title: Jennifer L. Crawford
 email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 I am a graduate student in the department of Psychological & Brain Sciences at Washington University. My research interests center around using multi-method approaches (e.g., experience sampling, neuroimaging) to study cognitive and motivational changes across the adult life span. 
 
