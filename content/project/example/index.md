@@ -8,9 +8,10 @@ date: "2021-04-10T00:00:00Z"
 external_link: ""
 
 image:
-
-
-
+links:
+- icon: twitter
+  icon_pack: fab
+  url: https://twitter.com/jlcrawford28
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
