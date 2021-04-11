@@ -1,11 +1,12 @@
 ---
 role: Graduate Student
-bio: My research interests include cognitive aging, decision making, annd
+bio: My research interests include cognitive aging, decision making, and
   motivation.
 interests:
   - Cognitive Aging
   - Effort
   - Motivation
+  - Experience Sampling
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,6 +41,6 @@ highlight_name: true
 ---
 I am a graduate student in the department of Psychological & Brain Sciences at Washington University. My research interests center around using multi-method approaches (e.g., experience sampling, neuroimaging) to study cognitive and motivational changes across the adult life span. 
 
-In addition to my research interests, I am invested in helping to demystify the hidden curriculum of academia and promote a positive culture in which people of all backgrounds are respected and represented in science. Outside of work, I enjoy running, baking and cooking, and spending time with friends and family.
+In addition to my research interests, I enjoy running, baking and cooking, and spending time with friends and family.
 
 
