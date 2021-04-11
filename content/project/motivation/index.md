@@ -1,5 +1,5 @@
 ---
-title: Motivated Cognition
+title: Motivation & Cognitive Control
 summary: 
 tags:
 date: "2021-04-10T00:00:00Z"
