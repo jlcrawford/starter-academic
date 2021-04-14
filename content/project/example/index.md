@@ -20,14 +20,15 @@ slides: ""
 
 There has been increasing evidence that dopamine function is important for both cognitive and motivational function across the adult life span. In my work as a bost-bacc research assistant and as a part of my dissertation, I have aimed to use multi-modal neuroimaging tools (e.g., fMRI, PET) to understand the complex relationships between aging, neuromodulation, and cognitive motivation. 
 
-Relevant publications:
-Smith, C.T., Crawford, J.L., Dang, L.C., Seaman, K.L., San Juan, M.D., Vijay, A., Katz, D.T.,
+**Relevant publications:**
+
+Smith, C.T., **Crawford, J.L.**, Dang, L.C., Seaman, K.L., San Juan, M.D., Vijay, A., Katz, D.T.,
 Matuskey, D., Cowan, R.L., Morris, E.D., Zald, D.H., & Samanez-Larkin, G.R. (2019). Partial-volume 
 correction increases estimated dopamine D2-like receptor binding potential and reduces adult age differences. Journal of Cerebral Blood Flow & Metabolism, 39(5), 822–833.  
 
-Castrellon, J. J., Seaman, K. L., Crawford, J. L., Young, J. S., Smith, C. T., Dang, L. C., et al. (2019). 
+Castrellon, J. J., Seaman, K. L., **Crawford, J. L.**, Young, J. S., Smith, C. T., Dang, L. C., et al. (2019). 
 Individual differences in dopamine are associated with reward discounting in clinical groups but not in healthy adults. Journal of Neuroscience, 39(2), 321.
 
-Juarez, E.J., Castrellon, J.J., Green, M.A., Crawford, J.L., Seaman, K.L., Smith, C.T., Dang, L.C., Zald, D.H., 
+Juarez, E.J., Castrellon, J.J., Green, M.A., **Crawford, J.L.**, Seaman, K.L., Smith, C.T., Dang, L.C., Zald, D.H., 
 & Samanez-Larkin, G.R. (2019). Reproducibility of the correlative triad among aging, dopamine receptor availability, and cognition. Psychology and Aging, 34(7), 921–932.
 
