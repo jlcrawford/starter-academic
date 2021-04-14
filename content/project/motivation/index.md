@@ -17,7 +17,17 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+In recent years, there has been growing interest in characterizing how motivation interacts with cognitive control to promote goal-directed behavior. My work has examined how multiple incentive types (e.g., liquid, social, monetary) influence motivational processing and how this changes across the adult life span.
+
+**Relevant Publications:**
+
+**Crawford, J.L.,** Yee, D.M., Hallenbeck, H.W., Naumann, A., Shapiro, K., Thompson, R.J., & Braver, T.S. 
+(2020). Dissociable effects of monetary, liquid, and social incentives on motivation and cognitive 
+control. Frontiers in Cognition, 11, 2212.
+
+Yee, D.M., **Crawford, J.L.,** Lamichhane, B., & Braver, T.S. (2021) Dorsal anterior cingulate cortex encodes 
+the subjective motivational value of cognitive task performance. Journal of Neuroscience.
+
