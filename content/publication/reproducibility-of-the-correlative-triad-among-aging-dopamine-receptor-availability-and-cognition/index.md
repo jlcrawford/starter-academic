@@ -7,7 +7,7 @@ authors:
   - Eric J Juarez
   - Jaime J Castrellon
   - Mikella A Green
-  - **Jennifer L Crawford**
+  - Jennifer L Crawford
   - Kendra L Seaman
   - Christopher T Smith
   - Linh C Dang
