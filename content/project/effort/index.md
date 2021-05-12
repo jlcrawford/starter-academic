@@ -19,4 +19,3 @@ evidence from economic decision-making. Cogn. Research, 6(4).
 
 **Crawford, J.L.**, English, T., & Braver, T.S. (preprint). Incorporating Ecological Momentary Assessment into multi-level
 investigations of cognitive aging: Promise and practical considerations.
-
