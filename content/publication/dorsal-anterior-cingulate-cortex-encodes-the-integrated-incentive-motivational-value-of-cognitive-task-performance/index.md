@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Debbie M Yee
-  - **Jennifer L Crawford**
+  - Jennifer L Crawford
   - Bidhan Lamichhane
   - Todd S Braver
 doi: "https://doi.org/10.1523/JNEUROSCI.2550-20.2021 "
