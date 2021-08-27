@@ -1,5 +1,5 @@
 ---
-title: "Incorporating Ecological Momentary Assessment into multi-level
+title: "Incorporating Ecological Momentary Assessment into multi-method
   investigations of cognitive aging: Promise and practical considerations"
 publication_types:
   - "3"
