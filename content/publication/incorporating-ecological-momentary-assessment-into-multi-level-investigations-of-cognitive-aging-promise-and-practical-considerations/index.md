@@ -2,7 +2,7 @@
 title: "Incorporating Ecological Momentary Assessment into multi-method
   investigations of cognitive aging: Promise and practical considerations"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Jennifer L Crawford
   - Tammy English
