@@ -17,5 +17,5 @@ In general, people tend to avoid engaging in cognitively effortful activities. T
 **Crawford, J.L.**, Eisenstein, S.A., Peelle, J.E. , & Braver, T.S. (2021). Domain-general cognitive motivation: 
 evidence from economic decision-making. Cogn. Research, 6(4). 
 
-**Crawford, J.L.**, English, T., & Braver, T.S. (preprint). Incorporating Ecological Momentary Assessment into multi-level
-investigations of cognitive aging: Promise and practical considerations.
+**Crawford, J.L.**, English, T., & Braver, T.S. (in press). Incorporating Ecological Momentary Assessment into multi-level
+investigations of cognitive aging: Promise and practical considerations. Psychology and Aging.
