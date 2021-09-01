@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: 'Journal Article, Preprint'
     author: ''
     exclude_featured: true
 design:
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 
+  view: 4
 ---
 
 
