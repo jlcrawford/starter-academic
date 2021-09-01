@@ -1,5 +1,5 @@
 ---
-title: "Incorporating Ecological Momentary Assessment into multi-method
+title: "Incorporating Ecological Momentary Assessment into multimethod
   investigations of cognitive aging: Promise and practical considerations"
 publication_types:
   - "2"
@@ -8,6 +8,7 @@ authors:
   - Tammy English
   - Todd S Braver
 doi: https://doi.org/10.31234/osf.io/pc8tj
+publication: Psychology and Aging
 draft: false
 featured: false
 image:
