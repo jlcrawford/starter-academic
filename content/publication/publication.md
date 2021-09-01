@@ -25,7 +25,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: 'Journal Article, Preprint'
+    publication_type: 'Journal article, Preprint'
     author: ''
     exclude_featured: true
 design:
