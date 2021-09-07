@@ -17,7 +17,7 @@ authors:
   - David H Zald
   - Gregory R Samanez-Larkin
 doi: https://doi.org/10.1037/pag0000403
-publication: Psychology and aging
+publication: "*Psychology and Aging, 34*(7), 921"
 draft: false
 featured: false
 image:
