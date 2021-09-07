@@ -12,7 +12,7 @@ authors:
   - Renee J Thompson
   - Todd S Braver
 doi: https://doi.org/10.3389/fpsyg.2020.02212
-publication: Frontiers in psychology
+publication: "*Frontiers in psychology, 11*, 2212"
 draft: false
 featured: false
 image:
