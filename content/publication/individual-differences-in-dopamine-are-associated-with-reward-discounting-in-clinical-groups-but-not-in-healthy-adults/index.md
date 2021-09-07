@@ -15,7 +15,7 @@ authors:
   - David H Zald
   - Gregory R Samanez-Larkin
 doi: "https://doi.org/10.1523/JNEUROSCI.1984-18.2018 "
-publication: Journal of Neuroscience
+publication: "*Journal of Neuroscience, 39*(2), 321-332"
 publication_short: ""
 draft: false
 featured: false
