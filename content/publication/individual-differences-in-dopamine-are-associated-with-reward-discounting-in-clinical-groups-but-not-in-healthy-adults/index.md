@@ -4,16 +4,16 @@ title: Individual differences in dopamine are associated with reward discounting
 publication_types:
   - "2"
 authors:
-  - Jaime J Castrellon
-  - Kendra L Seaman
+  - Jaime J. Castrellon
+  - Kendra L. Seaman
   - admin
-  - Jacob S Young
-  - Christopher T Smith
-  - Linh C Dang
+  - Jacob S. Young
+  - Christopher T. Smith
+  - Linh C. Dang
   - Ming Hsu
-  - Ronald L Cowan
-  - David H Zald
-  - Gregory R Samanez-Larkin
+  - Ronald L. Cowan
+  - David H. Zald
+  - Gregory R. Samanez-Larkin
 doi: "https://doi.org/10.1523/JNEUROSCI.1984-18.2018 "
 publication: "*Journal of Neuroscience, 39*(2), 321-332"
 publication_short: ""
