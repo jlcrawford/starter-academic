@@ -4,7 +4,7 @@ title: Dissociable effects of monetary, liquid, and social incentives on
 publication_types:
   - "2"
 authors:
-  - Jennifer L Crawford
+  - admin
   - Debbie M Yee
   - Haijing W Hallenbeck
   - Ashton Naumann
