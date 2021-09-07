@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Tammy English
-  - Todd S Braver
+  - Todd S. Braver
 doi: https://doi.org/10.31234/osf.io/pc8tj
 publication: "*Psychology and Aging*"
 draft: false
