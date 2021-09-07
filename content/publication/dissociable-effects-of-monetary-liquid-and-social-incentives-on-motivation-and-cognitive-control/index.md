@@ -5,12 +5,12 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Debbie M Yee
-  - Haijing W Hallenbeck
+  - Debbie M. Yee
+  - Haijing W. Hallenbeck
   - Ashton Naumann
   - Katherine Shapiro
-  - Renee J Thompson
-  - Todd S Braver
+  - Renee J. Thompson
+  - Todd S. Braver
 doi: https://doi.org/10.3389/fpsyg.2020.02212
 publication: "*Frontiers in psychology, 11*, 2212"
 draft: false
