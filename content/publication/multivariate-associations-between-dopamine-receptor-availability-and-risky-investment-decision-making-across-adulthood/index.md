@@ -3,11 +3,11 @@ title: Multivariate associations between dopamine receptor availability and risk
 publication_types:
   - "3"
 authors:
-  - Mikella A Green
-  - Kendra L Seaman
+  - Mikella A. Green
+  - Kendra L. Seaman
   - admin
-  - Camelia M Kuhnen
-  - Gregory R Samanez-Larkin
+  - Camelia M. Kuhnen
+  - Gregory R. Samanez-Larkin
 doi: "https://doi.org/10.1101/2021.06.15.448537"
 publication: "*bioRxiv*"
 publication_short: ""
