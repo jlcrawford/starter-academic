@@ -3,7 +3,7 @@ title: "Domain-general cognitive motivation: evidence from economic decision-mak
 publication_types:
   - "2"
 authors:
-  - Jennifer L Crawford
+  - admin
   - Sarah A Eisenstein
   - Jonathan E Peelle
   - Todd S Braver
