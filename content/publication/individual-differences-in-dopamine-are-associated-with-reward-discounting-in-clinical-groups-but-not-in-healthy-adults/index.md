@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Jaime J Castrellon
   - Kendra L Seaman
-  - Jennifer L Crawford
+  - admin
   - Jacob S Young
   - Christopher T Smith
   - Linh C Dang
