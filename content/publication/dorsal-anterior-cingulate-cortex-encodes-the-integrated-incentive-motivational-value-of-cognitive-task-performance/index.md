@@ -4,10 +4,10 @@ title: Dorsal Anterior Cingulate Cortex Encodes the Integrated Incentive
 publication_types:
   - "2"
 authors:
-  - Debbie M Yee
+  - Debbie M. Yee
   - admin
   - Bidhan Lamichhane
-  - Todd S Braver
+  - Todd S. Braver
 doi: "https://doi.org/10.1523/JNEUROSCI.2550-20.2021"
 publication: "*Journal of Neuroscience, 41*(16), 3707-3720"
 draft: false
