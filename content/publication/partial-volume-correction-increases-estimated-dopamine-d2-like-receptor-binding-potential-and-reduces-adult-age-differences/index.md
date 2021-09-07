@@ -4,18 +4,18 @@ title: Partial-volume correction increases estimated dopamine D2-like receptor
 publication_types:
   - "2"
 authors:
-  - Christopher T Smith
+  - Christopher T. Smith
   - admin
-  - Linh C Dang
-  - Kendra L Seaman
-  - M Danica San Juan
+  - Linh C. Dang
+  - Kendra L. Seaman
+  - M. Danica San Juan
   - Aishwarya Vijay
-  - Daniel T Katz
+  - Daniel T. Katz
   - David Matuskey
-  - Ronald L Cowan
-  - Evan D Morris
-  - David H Zald
-  - Gregory R Samanez-Larkin
+  - Ronald L. Cowan
+  - Evan D. Morris
+  - David H. Zald
+  - Gregory R. Samanez-Larkin
 doi: https://doi.org/10.1177/0271678X17737693
 publication: "*Journal of Cerebral Blood Flow & Metabolism, 39*(5), 822-833"
 draft: false
