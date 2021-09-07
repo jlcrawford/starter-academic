@@ -4,9 +4,9 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Sarah A Eisenstein
-  - Jonathan E Peelle
-  - Todd S Braver
+  - Sarah A. Eisenstein
+  - Jonathan E. Peelle
+  - Todd S. Braver
 doi: https://doi.org/10.1186/s41235-021-00272-7
 publication: "*Cognitive research: principles and implications, 6*(1), 1-9"
 draft: false
