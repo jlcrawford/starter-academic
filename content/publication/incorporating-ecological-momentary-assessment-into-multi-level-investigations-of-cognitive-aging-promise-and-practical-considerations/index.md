@@ -4,7 +4,7 @@ title: "Incorporating Ecological Momentary Assessment into multimethod
 publication_types:
   - "2"
 authors:
-  - Jennifer L Crawford
+  - admin
   - Tammy English
   - Todd S Braver
 doi: https://doi.org/10.31234/osf.io/pc8tj
