@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Christopher T Smith
-  - Jennifer L Crawford
+  - admin
   - Linh C Dang
   - Kendra L Seaman
   - M Danica San Juan
