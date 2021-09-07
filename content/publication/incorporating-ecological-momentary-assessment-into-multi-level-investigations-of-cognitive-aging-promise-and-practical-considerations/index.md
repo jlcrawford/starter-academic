@@ -8,12 +8,12 @@ authors:
   - Tammy English
   - Todd S Braver
 doi: https://doi.org/10.31234/osf.io/pc8tj
-publication: Psychology and Aging
+publication: "*Psychology and Aging*"
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-03-19T17:18:02.143Z
+date: 2021-09-1T17:18:02.143Z
 ---
