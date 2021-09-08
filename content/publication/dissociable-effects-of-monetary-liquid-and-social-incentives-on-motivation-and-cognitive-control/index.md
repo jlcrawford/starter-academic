@@ -11,7 +11,7 @@ authors:
   - Katherine Shapiro
   - Renee J. Thompson
   - Todd S. Braver
-doi: https://doi.org/10.3389/fpsyg.2020.02212
+url_paper: https://doi.org/10.3389/fpsyg.2020.02212
 url_code: https://osf.io/pu9gs/
 publication: "*Frontiers in psychology, 11*, 2212"
 draft: false
