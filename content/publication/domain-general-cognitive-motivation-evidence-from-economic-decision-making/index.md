@@ -8,6 +8,7 @@ authors:
   - Jonathan E. Peelle
   - Todd S. Braver
 doi: https://doi.org/10.1186/s41235-021-00272-7
+url_code: https://osf.io/9t6q7/?view_only=cc143ba2834c4aef8f034ba046b01098
 publication: "*Cognitive research: principles and implications, 6*(1), 1-9"
 draft: false
 featured: false
