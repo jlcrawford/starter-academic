@@ -9,6 +9,7 @@ authors:
   - Bidhan Lamichhane
   - Todd S. Braver
 doi: "https://doi.org/10.1523/JNEUROSCI.2550-20.2021"
+url_code: https://osf.io/upka4/
 publication: "*Journal of Neuroscience, 41*(16), 3707-3720"
 draft: false
 featured: false
