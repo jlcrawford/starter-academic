@@ -26,8 +26,8 @@ In recent years, there has been growing interest in characterizing how motivatio
 
 **Crawford, J.L.,** Yee, D.M., Hallenbeck, H.W., Naumann, A., Shapiro, K., Thompson, R.J., & Braver, T.S. 
 (2020). Dissociable effects of monetary, liquid, and social incentives on motivation and cognitive 
-control. Frontiers in Cognition, 11, 2212.
+control. *Frontiers in Cognition, 11*, 2212.
 
 Yee, D.M., **Crawford, J.L.,** Lamichhane, B., & Braver, T.S. (2021) Dorsal anterior cingulate cortex encodes 
-the subjective motivational value of cognitive task performance. Journal of Neuroscience.
+the subjective motivational value of cognitive task performance. *Journal of Neuroscience, 41*(16), 3703-3720.
 
