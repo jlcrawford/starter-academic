@@ -18,7 +18,7 @@ links:
 slides: ""
 ---
 
-There has been increasing evidence that dopamine function is important for both cognitive and motivational function across the adult life span. In my work I have aimed to use multi-modal neuroimaging tools, such as fMRI and PET, to understand the complex relationships between aging, neuromodulation, and cognitive motivation. 
+There has been increasing evidence that dopamine function is important for both cognitive and motivational function across the adult life span. In my work, I have aimed to use multi-modal neuroimaging tools, such as fMRI and PET, to understand the complex relationships between aging, neuromodulation, and cognitive motivation. 
 
 **Relevant publications:**
 
