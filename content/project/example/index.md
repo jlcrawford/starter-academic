@@ -24,11 +24,11 @@ There has been increasing evidence that dopamine function is important for both 
 
 Smith, C.T., **Crawford, J.L.**, Dang, L.C., Seaman, K.L., San Juan, M.D., Vijay, A., Katz, D.T.,
 Matuskey, D., Cowan, R.L., Morris, E.D., Zald, D.H., & Samanez-Larkin, G.R. (2019). Partial-volume 
-correction increases estimated dopamine D2-like receptor binding potential and reduces adult age differences. Journal of Cerebral Blood Flow & Metabolism, 39(5), 822–833.  
+correction increases estimated dopamine D2-like receptor binding potential and reduces adult age differences. *Journal of Cerebral Blood Flow & Metabolism, 39*(5), 822–833.  
 
 Castrellon, J. J., Seaman, K. L., **Crawford, J. L.**, Young, J. S., Smith, C. T., Dang, L. C., et al. (2019). 
-Individual differences in dopamine are associated with reward discounting in clinical groups but not in healthy adults. Journal of Neuroscience, 39(2), 321.
+Individual differences in dopamine are associated with reward discounting in clinical groups but not in healthy adults. *Journal of Neuroscience, 39*(2), 321-332.
 
 Juarez, E.J., Castrellon, J.J., Green, M.A., **Crawford, J.L.**, Seaman, K.L., Smith, C.T., Dang, L.C., Zald, D.H., 
-& Samanez-Larkin, G.R. (2019). Reproducibility of the correlative triad among aging, dopamine receptor availability, and cognition. Psychology and Aging, 34(7), 921–932.
+& Samanez-Larkin, G.R. (2019). Reproducibility of the correlative triad among aging, dopamine receptor availability, and cognition. *Psychology and Aging, 34*(7), 921–932.
 
