@@ -1,6 +1,6 @@
 ---
-title: Dorsal Anterior Cingulate Cortex Encodes the Integrated Incentive
-  Motivational Value of Cognitive Task Performance
+title: Dorsal anterior cingulate cortex encodes the integrated incentive
+  motivational value of cognitive task performance
 publication_types:
   - "2"
 authors:
