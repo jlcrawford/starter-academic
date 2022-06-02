@@ -14,6 +14,10 @@ In general, people tend to avoid engaging in cognitively effortful activities. T
 
 **Relevant Publications:**
 
+**Crawford, J.L.**, English, T. & Braver, T.S. (preprint). Cognitive effort-based decision-making across experimental and daily life indices in younger and older adults.
+
+Aschenbrenner, A.J. **Crawford, J.L.**, Peelle, J.E., Fagan, A.M., Benzinger, T.L.S., Morris, J.C., Hassenstab, J., & Braver, T.S. (preprint). Increased cognitive effort costs in healthy aging and preclinical Alzheimer’s Disease.
+
 **Crawford, J.L.**, Eisenstein, S.A., Peelle, J.E. & Braver, T.S. (2022). Domain-general cognitive motivation:
 Evidence from economic decision-making – Final Registered Report. *Cognitive Research: Principles and Implications, 7*(1), 23.
 
