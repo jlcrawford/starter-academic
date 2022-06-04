@@ -7,6 +7,7 @@ authors:
   - Tammy English
   - Todd S. Braver
 doi: "http://osf.io/y5w96"
+url_code: https://osf.io/2jtpb/
 publication: "*PsyArXiv*"
 publication_short: ""
 draft: false
