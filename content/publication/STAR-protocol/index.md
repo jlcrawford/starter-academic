@@ -1,6 +1,5 @@
 ---
-title: Juicy Research: a fMRI protocol for administering liquid 
-incentives to human participants
+title: Juicy Research: a fMRI protocol for administering liquid incentives to human participants
 publication_types:
   - "2"
 authors:
