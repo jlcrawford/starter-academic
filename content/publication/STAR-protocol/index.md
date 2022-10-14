@@ -7,7 +7,7 @@ authors:
   - Debbie M. Yee
   - admin
   - Todd S. Braver
-doi: 
+doi: https:doi.org/
 publication: "*STAR Protocols*"
 draft: false
 featured: false
