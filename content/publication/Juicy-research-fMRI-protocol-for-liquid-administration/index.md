@@ -1,13 +1,12 @@
 ---
-title: a fMRI protocol for administering liquid incentives to human participants
+title: Juicy Research: a fMRI protocol for administering liquid incentives to human participants
 publication_types:
   - "2"
 authors:
   - Debbie M. Yee
   - admin
   - Todd S. Braver
-doi: "https:/doi.org/10.1093/geronb/gbac167/"
-url_code: https://osf.io/2jtpb/
+doi: "https:/doi.org/"
 publication: "*STAR Protocols*"
 publication_short: ""
 draft: false
