@@ -6,7 +6,7 @@ authors:
   - admin
   - Tammy English
   - Todd S. Braver
-doi: "https:/doi.org/10.1093/geronb/gbac167/"
+doi: "https://doi.org/10.1093/geronb/gbac167"
 url_code: https://osf.io/2jtpb/
 publication: "*The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences*"
 publication_short: ""
