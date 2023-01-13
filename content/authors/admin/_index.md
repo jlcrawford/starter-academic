@@ -25,7 +25,7 @@ organizations:
     url: https://brandeis.edu/psychology/neurochemistry-cognition
 education:
   courses:
-   - course: PhD in Psychological & Brain Sciences
+    - course: PhD in Psychological & Brain Sciences
       institution: Washington University
       year: 2022
     - course: MA in Psychological & Brain Sciences
