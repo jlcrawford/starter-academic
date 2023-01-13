@@ -22,7 +22,7 @@ social:
     link: https://github.com/jlcrawford
 organizations:
   - name: Brandeis University
-    url: https://www.brandeis.edu/psychology/neurochemistry-cognition/index.html
+    url: https://brandeis.edu/psychology/neurochemistry-cognition
 education:
   courses:
    - course: PhD in Psychological & Brain Sciences
