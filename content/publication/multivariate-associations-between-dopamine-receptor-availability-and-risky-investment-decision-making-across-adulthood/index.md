@@ -9,7 +9,8 @@ authors:
   - Gregory R. Samanez-Larkin
   - Kendra L. Seaman
 doi: "https://doi.org/10.1093/texcom/tgad008"
-publication: "Cerebral Cortex Communications, 4(2)*, tgad008"
+url_code: https://osf.io/yjqpb/
+publication: "*Cerebral Cortex Communications, 4(2)*, tgad008"
 publication_short: ""
 draft: false
 featured: false
