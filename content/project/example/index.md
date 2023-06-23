@@ -22,6 +22,8 @@ There has been increasing evidence that dopamine function is important for both 
 
 **Relevant publications:**
 
+Green, M.A., **Crawford, J.L.**, Kuhnen, C.M., Samanez-Larkin, G.R, & Seaman, K.L. (2023). Multivariate associations between dopamine receptor availability and risky investment decision making across adulthood. *Cerebral Cortex Communications, 4(2)*, tgad008.
+
 Smith, C.T., **Crawford, J.L.**, Dang, L.C., Seaman, K.L., San Juan, M.D., Vijay, A., Katz, D.T.,
 Matuskey, D., Cowan, R.L., Morris, E.D., Zald, D.H., & Samanez-Larkin, G.R. (2019). Partial-volume 
 correction increases estimated dopamine D2-like receptor binding potential and reduces adult age differences. *Journal of Cerebral Blood Flow & Metabolism, 39*(5), 822–833.  
