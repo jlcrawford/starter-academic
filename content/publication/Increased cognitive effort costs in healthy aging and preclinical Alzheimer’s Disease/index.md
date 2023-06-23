@@ -12,6 +12,7 @@ authors:
   - Jason Hassenstab
   - Todd S. Braver
 doi: "https://psycnet.apa.org/doi/10.1037/pag0000742"
+code_url: https://osf.io/5kzan/
 publication: "*Psychology and Aging*"
 publication_short: ""
 draft: false
