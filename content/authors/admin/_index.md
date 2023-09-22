@@ -42,8 +42,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a postdoctoral fellow in the department of Psychology at Brandeis University. My research interests center around using multi-method approaches (e.g., experience sampling, neuroimaging) to study cognitive and motivational changes across the adult life span. 
+I am a postdoctoral fellow in the department of Psychology at Brandeis University. My research uses multi-method approaches (e.g., experience sampling, behavioral tasks, neuroimaging) to study cognitive and motivational changes across the adult life span. 
 
-In addition to my research interests, I enjoy running, baking and cooking, and spending time with friends and family.
+In addition to my work, I enjoy training for triathlons, baking and cooking, and spending time with friends and family.
 
 
