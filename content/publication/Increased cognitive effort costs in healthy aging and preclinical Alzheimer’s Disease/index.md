@@ -13,7 +13,7 @@ authors:
   - Todd S. Braver
 doi: "https://psycnet.apa.org/doi/10.1037/pag0000742"
 url_code: https://osf.io/5kzan/
-publication: "*Psychology and Aging 38*(5), 428-442"
+publication: "*Psychology and Aging, 38*(5), 428-442"
 publication_short: ""
 draft: false
 featured: false
