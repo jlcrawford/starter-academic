@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Anne S. Berry
+  - & Anne S. Berry
 doi: ""
 publication: "*Trends in Neurosciences*"
 publication_short: ""
