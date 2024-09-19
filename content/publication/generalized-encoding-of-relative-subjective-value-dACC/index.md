@@ -10,7 +10,7 @@ authors:
   - Todd S. Braver
 doi: "https://doi.org/10.1523/JNEUROSCI.0367-24.2024"
 url_code: https://osf.io/px946/
-publication: "*Journal of Neuroscience*"
+publication: "*Journal of Neuroscience 44(38)*, 1-14"
 publication_short: ""
 draft: false
 featured: false
