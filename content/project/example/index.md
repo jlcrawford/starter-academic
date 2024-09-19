@@ -18,7 +18,7 @@ links:
 slides: ""
 ---
 
-There has been increasing evidence that dopamine is important for both cognitive and motivational function across the adult life span. In parallel, other work suggests that monoaminergic nuclei are the earliest site of Alzheimer's disease pathology in the brain.  In my work, I use multi-modal neuroimaging tools, such as fMRI and PET, to understand the complex relationships between aging, neuromodulation, cognition, and motivation across the adult life span. 
+There has been increasing evidence that dopamine is important for both cognitive and motivational function across the adult life span. In parallel, other work suggests that monoaminergic nuclei are the earliest sites of Alzheimer's disease pathology in the brain.  In my work, I use multi-modal neuroimaging tools, such as fMRI and PET, to understand the complex relationships between aging, neuromodulation, cognition, and motivation across the adult life span. 
 
 **Relevant publications:**
 
