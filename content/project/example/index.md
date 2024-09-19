@@ -18,9 +18,12 @@ links:
 slides: ""
 ---
 
-There has been increasing evidence that dopamine function is important for both cognitive and motivational function across the adult life span. In my work, I have aimed to use multi-modal neuroimaging tools, such as fMRI and PET, to understand the complex relationships between aging, neuromodulation, cognition, and motivation. 
+There has been increasing evidence that dopamine is important for both cognitive and motivational function across the adult life span. In parallel, other work suggests that monoaminergic nuclei are the earliest site of Alzheimer's disease pathology in the brain.  In my work, I use multi-modal neuroimaging tools, such as fMRI and PET, to understand the complex relationships between aging, neuromodulation, cognition, and motivation across the adult life span. 
 
 **Relevant publications:**
+
+**Crawford, J.L.**, & Berry, A.S. (in press). Examining resilience to Alzheimer’s disease through the lens of
+monoaminergic neuromodulator systems. *Trends in Neurosciences*.
 
 Green, M.A., **Crawford, J.L.**, Kuhnen, C.M., Samanez-Larkin, G.R, & Seaman, K.L. (2023). Multivariate associations between dopamine receptor availability and risky investment decision making across adulthood. *Cerebral Cortex Communications, 4(2)*, tgad008.
 
