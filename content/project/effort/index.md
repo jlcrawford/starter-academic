@@ -14,8 +14,8 @@ In general, people tend to avoid engaging in cognitively effortful activities. T
 
 **Relevant Publications:**
 
-**Crawford, J.L.**, Brough, R.E., Eisenstein, S.A., Peelle, J.E., & Braver, T.S. (in press). Generalized encoding of the
-relative subjective value of cognitive effort in dorsal ACC. Journal of Neuroscience.
+**Crawford, J.L.**, Brough, R.E., Eisenstein, S.A., Peelle, J.E., & Braver, T.S. (2024). Generalized encoding of the
+relative subjective value of cognitive effort in dorsal ACC. *Journal of Neuroscience 44(38)*, 1-14.
 
 **Crawford, J.L.**, English, T. & Braver, T.S. (2023). Cognitive effort-based decision-making across experimental and daily life indices in younger and older adults. *Journals of Gerontology, Series B: Psychological Sciences and Social Sciences 78*(1), 40-50.
 
