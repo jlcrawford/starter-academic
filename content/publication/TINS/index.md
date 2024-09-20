@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
   - Anne S. Berry
-doi: ""
+doi: "http://dx.doi.org/10.1016/j.tins.2024.09.004"
 publication: "*Trends in Neurosciences*"
 publication_short: ""
 draft: false
