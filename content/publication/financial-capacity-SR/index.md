@@ -12,6 +12,7 @@ authors:
   - Hannah R. Snyder
   - Anne S. Berry
 doi: "https://doi.org/10.1038/s41598-025-00120-4"
+url_code: https://osf.io/yf5tj/
 publication: "*Scientific Reports*, 15398"
 publication_short: ""
 draft: false
