@@ -6,7 +6,7 @@ interests:
   - Cognitive Aging
   - Effort
   - Motivation
-  - Experience Sampling
+  - Daily Life Sampling
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,7 +39,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a postdoctoral fellow in the department of Psychology at Brandeis University. My research uses multi-method approaches (e.g., experience sampling, behavioral tasks, neuroimaging) to study cognitive and motivational changes across the adult life span. 
+I am a postdoctoral fellow in the department of Psychology at Brandeis University. My research uses multi-method approaches (e.g., experience sampling, behavioral tasks, neuroimaging) to study cognitive and motivational changes across the adult life span and in Alzheimer's disease. 
 
 In addition to my work, I enjoy training for triathlons, baking and cooking, and spending time with friends and family.
 
