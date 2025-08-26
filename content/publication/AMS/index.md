@@ -1,7 +1,7 @@
 ---
 title: Cognitive effort engagement across the adult life span 
 publication_types:
-  - "2"
+  - "1"
 authors:
   - admin
   - Todd S. Braver
