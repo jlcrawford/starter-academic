@@ -4,6 +4,7 @@ publication_types:
   - "2"
 authors:
   - Hsiang-Yu Chen
+  - Bailey C. Gold
   - Claire J. Ciampa
   - admin
   - Alex A. Adornato
