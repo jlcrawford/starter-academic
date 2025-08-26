@@ -1,5 +1,5 @@
 ---
-title: Aging & Neuromodulation
+title: Catecholamine Systems and Aging
 summary: 
 tags:
 date: "2021-04-10T00:00:00Z"
@@ -18,7 +18,7 @@ links:
 slides: ""
 ---
 
-There has been increasing evidence that monoamines are important for both cognitive and motivational function across the adult life span. In parallel, other work suggests that monoaminergic nuclei are the earliest sites of Alzheimer's disease pathology in the brain.  In my work, I use multi-modal neuroimaging tools, such as fMRI and PET, to understand the complex relationships between aging, neuromodulation, cognition, and motivation across the adult life span. 
+There has been increasing evidence that catecholamines are important for both cognitive and motivational function across the adult life span. In parallel, other work suggests that catecholaminergic nuclei are the earliest sites of Alzheimer's disease pathology in the brain.  In my work, I use multi-modal neuroimaging tools, such as fMRI and PET, to understand the complex relationships between aging, neuromodulation, cognition, and motivation across the adult life span. 
 
 **Relevant publications:**
 
