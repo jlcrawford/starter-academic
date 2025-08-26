@@ -1,8 +1,8 @@
 ---
-title: Costs of Cognitive Effort
+title: Alzheimer's disease
 summary: 
 tags:
-date: "2021-04-10T00:00:00Z"
+date: "2025-08-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
