@@ -14,6 +14,9 @@ Early stages of Alzheimer's disease (AD) are associated with both tau pathology 
 
 **Relevant Publications:**
 
+**Crawford, J.L.**, Adornato, A., Matulonis, J., Chen, X., Hooker, J.M., & Berry, A.S. (2026). Dissociable 
+mechanisms underlie differences between memory and metamemory in older adults: The Differentiating role of anxiety and depression symptoms. *Hippocampus, 36(3)*, e70100.
+
 **Crawford, J.L.**, & Berry, A.S. (2024). Examining resilience to Alzheimer’s disease through the lens of
  monoaminergic neuromodulator systems. *Trends in Neurosciences 47(11)*, 892-903.
 
