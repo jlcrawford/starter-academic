@@ -42,7 +42,7 @@ highlight_name: true
 ---
 I am a postdoctoral fellow in the department of Psychology at Brandeis University. My research uses multi-method approaches (e.g., daily life sampling, behavioral tasks,  multimodal neuroimaging) to study cognitive, affective, and motivational changes across the adult life span and in Alzheimer's disease. 
 
-**I will be launching my lab in the Center for Vital Longevity at UT Dallas in August 2026! As a part of this effort, I will be recruiting a lab manager to start in the fall 2026 and will be accepting applications for Ph.D. students to start in fall 2027.**
+**I will be launching my lab in the Center for Vital Longevity at UT Dallas in August 2026! As a part of this effort, I will be recruiting a lab manager to start in fall 2026 and will be accepting applications for Ph.D. students to start in fall 2027.**
 
 In addition to my work, I enjoy training for triathlons, baking and cooking, and spending time with friends and family.
 
