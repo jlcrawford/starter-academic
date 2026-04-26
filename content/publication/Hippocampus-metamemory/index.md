@@ -1,6 +1,5 @@
 ---
-title: Dissociable mechanisms underlie differences between memory and metamemory in older adults: 
-The Differentiating role of anxiety and depression symptoms
+title: Dissociable mechanisms underlie differences between memory and metamemory in older adults
 publication_types:
   - "2"
 authors:
