@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
   - Todd S. Braver
-doi: 
+doi: https://doi.org/10.1016/bs.adms.2026.02.002
 publication: "In Elliot, A.J. (Ed.) *Advances in Motivation Science*. Elsevier"
 publication_short: ""
 draft: false
@@ -14,5 +14,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-02-09T20:55:19.093Z
+date: 2026-04-09T20:55:19.093Z
 ---
