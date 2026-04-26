@@ -6,6 +6,7 @@ interests:
   - Cognitive Aging
   - Effort
   - Motivation
+  - Affect
   - Daily Life Sampling
 social:
   - icon: envelope
@@ -39,7 +40,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a postdoctoral fellow in the department of Psychology at Brandeis University. My research uses multi-method approaches (e.g., daily life sampling, behavioral tasks, neuroimaging) to study cognitive and motivational changes across the adult life span and in Alzheimer's disease. 
+I am a postdoctoral fellow in the department of Psychology at Brandeis University. My research uses multi-method approaches (e.g., daily life sampling, behavioral tasks,  multimodal neuroimaging) to study cognitive, affective, and motivational changes across the adult life span and in Alzheimer's disease. 
+
+I will be launching my lab at the Center for Vital Longevity at UT Dallas in August 2026! I will be recruiting a lab manager to start in the fall and will be accepting applications for Ph.D. students to start fall 2027. 
 
 In addition to my work, I enjoy training for triathlons, baking and cooking, and spending time with friends and family.
 
