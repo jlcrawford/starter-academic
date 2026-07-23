@@ -1,5 +1,5 @@
 ---
-role: Postdoctoral Fellow
+role: Assistant Professor
 bio: My research interests include cognitive aging, decision making, and
   motivation.
 interests:
