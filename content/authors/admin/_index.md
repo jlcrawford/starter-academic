@@ -18,8 +18,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jlcrawford
-  - icon: butterfly
-    icon_pack: fas
+  - icon: bluesky
+    icon_pack: fab
     link: https://bsky.app/profile/jlcrawford.bsky.social
 organizations:
   - name: Center for Vital Longevity, University of Texas at Dallas
