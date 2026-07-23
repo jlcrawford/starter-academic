@@ -18,7 +18,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/jlcrawford
-  - icon: github
+  - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/jlcrawford.bsky.social
 organizations:
