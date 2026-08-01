@@ -13,7 +13,7 @@ authors:
   - Anne S. Berry
 doi: "https://doi.org/10.1016/j.neurobiolaging.2026.06.012""
 url_code: https://osf.io/63ays/
-publication: "*Neurobiology of Aging 167*, 120-128"
+publication: "*Neurobiology of Aging, 167*, 120-128"
 publication_short: ""
 draft: false
 featured: false
