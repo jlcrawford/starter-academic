@@ -1,6 +1,6 @@
 ---
-title: "Brain structure in the cingulate cortex and locus coeruleus in late life is associated
-with engagement in complex mental activities across the life span"
+title: 
+"Brain structure in the cingulate cortex and locus coeruleus in late life is associated with engagement in complex mental activities across the life span"
 publication_types:
   - "2"
 authors:
