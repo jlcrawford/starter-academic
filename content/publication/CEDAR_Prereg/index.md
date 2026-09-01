@@ -1,7 +1,7 @@
 ---
 title: "Affective benefits of daily life activity and experiential diversity are associated with catecholamine systems across the adult life span"
 publication_types:
-  - "6"
+  - "3"
 authors:
   - admin
   - Johanna Matulonis
