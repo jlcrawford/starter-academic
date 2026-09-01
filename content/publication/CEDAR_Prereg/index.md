@@ -11,7 +11,7 @@ authors:
   - Heidi I.L. Jacobs
   - Aaron S. Heller
   - Anne S. Berry
-doi: "https://osf.io/preprints/psyarxiv/aqsmu_v1"
+doi: "https://doi.org/10.31234/osf.io/aqsmu_v1"
 url_code: https://osf.io/pd5hu
 publication: ""
 publication_short: ""
