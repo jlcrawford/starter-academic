@@ -1,5 +1,6 @@
 ---
-title: "Affective benefits of daily life activity and experiential diversity are associated with catecholamine systems across the adult life span
+title: 
+"Affective benefits of daily life activity and experiential diversity are associated with catecholamine systems across the adult life span"
 publication_types:
   - "1"
 authors:
